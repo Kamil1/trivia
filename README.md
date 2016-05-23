@@ -1,2 +1,2 @@
 # Demo Trivia
-This is a README file. Gti rocks
+This is a README file. Git rocks
